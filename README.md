@@ -1,5 +1,5 @@
 # Student-Admin-Tool 
--   <a href="smt.op-bit.nz">Student-Admin-Tool link</a> 
+-   <a href="http://kate.ict.op.ac.nz/~warnaa1/Projects/Student_Tool/">Student-Admin-Tool link</a> 
 -	Created a Student Admin tool for lectures of the IT school at Otago Polytechnic, to be used as a student feedback mechanism
 -	PHP, Bootstrap, HTML5, CSS, JavaScript, jQuery, MariaDB
 -	Upkeep of the website and fix any issues or make repairs
